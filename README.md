@@ -5,7 +5,6 @@ The program counts the clicks when the click button is pressed,
 and the clicks made are displayed on the screen.
 
 ## 📸 Demo & Capturas
-Agrega aquí un GIF animado o capturas de la interfaz y respuestas de Postman.
 ![Proyect Screenshot](./src/imagenes/Contador.png "Es una captura del avance del proyecto")
 ![Proyect Demostration](./src/imagenes/Animation.gif)
 
