@@ -1,6 +1,5 @@
 # 🚀Counter Clicker
-![Licencia](https://img.shields.io/badge/license-MIT-blue.svg) ![Estado]
-(https://img.shields.io/badge/status-En%20Desarrollo-green.svg)
+![Licencia](https://img.shields.io/badge/license-MIT-blue.svg) ![Estado](https://img.shields.io/badge/status-En%20Desarrollo-green.svg)
 
 The program counts the clicks when the click button is pressed,
 and the clicks made are displayed on the screen.
