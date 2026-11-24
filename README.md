@@ -1,4 +1,32 @@
-# Getting Started with Create React App
+# 🚀Counter Clicker
+![Licencia](https://img.shields.io/badge/license-MIT-blue.svg) ![Estado]
+(https://img.shields.io/badge/status-En%20Desarrollo-green.svg)
+
+The program counts the clicks when the click button is pressed,
+and the clicks made are displayed on the screen.
+
+## 📸 Demo & Capturas
+Agrega aquí un GIF animado o capturas de la interfaz y respuestas de Postman.
+![Proyect Screenshot](./src/imagenes/Contador.png "Es una captura del avance del proyecto")
+![Proyect Demostration](./src/imagenes/Animation.gif)
+
+---
+## 🛠️ Stack Tecnológico
+* **Frontend:** React.js, CSS.
+* **Backend:** HTML.
+
+## ⚡ Características Principales
+- [x] Dashboard 
+
+---
+## 🚀 Instalación y Configuración Local
+```bash
+git clone https://github.com/didier416/contador-clics.git
+cd contador-de-clics
+npm install # o composer install
+npm start
+```
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -68,3 +96,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+👨‍💻 **Autor:** Desarrollado por Didier.C — [LinkedIn](www.linkedin.com/in/didier-zamora-3037a6214) | [GitHub](https://github.com/didier416)
